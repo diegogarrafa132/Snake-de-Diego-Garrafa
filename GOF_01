@@ -1,7 +1,6 @@
 import pygame
 import random
 
-# Configuración
 FILAS = 20
 COLUMNAS = 20
 TAM_CELDA = 30
@@ -9,7 +8,6 @@ TAM_CELDA = 30
 ANCHO = COLUMNAS * TAM_CELDA
 ALTO = FILAS * TAM_CELDA
 
-# Colores
 NEGRO = (30, 30, 30)
 GRIS = (80, 80, 80)
 VERDE = (0, 200, 0)
